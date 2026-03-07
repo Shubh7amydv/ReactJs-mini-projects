@@ -141,4 +141,4 @@ This project was built to practice:
 Shubham Yadav
 
 
-![The preview image can be seen here](imagePreview.png)
+![The preview image can be seen here](ImagePreview.png)
