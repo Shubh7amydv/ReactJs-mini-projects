@@ -1,6 +1,3 @@
 node_modules/
-06-Tailwind-CSS/
-07-ui-project/
-08-Functions/
-09-advanced-hooks/
-10-Form-Handling/
+
+package-lock.json/

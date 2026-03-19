@@ -16,7 +16,7 @@ A simple and interactive Notes Application built using pure frontend technologie
 
 Project Preview
 
-![Notes App Screenshot](/image.png)
+![Notes App Screenshot](image.png)
 
 ---
 
