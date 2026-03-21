@@ -8,47 +8,48 @@ A collection of small and practical React projects built while learning and expl
 
 ### 🧮 Counter Project
 
-* Increment, decrement, and reset functionality
-* Demonstrates use of `useState` hook
+* Increment, decrement, and reset functionality  
+* Demonstrates use of `useState` hook  
 
 ---
 
 ### 📝 Notes App
 
-* Create, edit, and delete notes
-* Uses Local Storage for data persistence
-* Focus on CRUD operations
+* Create, edit, and delete notes  
+* Uses Local Storage for data persistence  
+* Focus on CRUD operations  
 
 ---
 
 ### 🎨 UI Project
 
-* Basic UI components and layouts
-* Focus on styling and responsive design
+* Basic UI components and layouts  
+* Focus on styling and responsive design  
 
 ---
 
-## 🖥️ Preview
+### 🖼️ Gallery App
+
+* 🖼️ Responsive image grid layout  
+* 👤 Displays photographer/author names  
+* 🔄 Pagination (Next / Prev navigation)  
+* ⚡ Fast loading with optimized UI  
+* 🎯 Clean and minimal design  
+
+---
+
+## 🖥️ Project Structure
 
 Each project is located inside its respective folder:
-
-```
-Counter-Project/
-Notes-App/
-UI-Project/
-```
 
 ---
 
 ## 🛠️ Tech Stack
 
-* React
-* JavaScript (ES6)
-* CSS3
-* Vite
-
----
-
+* React  
+* JavaScript (ES6)  
+* CSS3  
+* Vite  
 
 ---
 
@@ -56,20 +57,20 @@ UI-Project/
 
 This repository helped in understanding:
 
-* React functional components
-* React Hooks (`useState`)
-* Component-based architecture
-* Event handling in React
-* Managing multiple small projects
+* React functional components  
+* React Hooks (`useState`)  
+* Component-based architecture  
+* Event handling in React  
+* Managing multiple small projects  
 
 ---
 
 ## 📌 Future Improvements
 
-* 🌙 Add dark mode to projects
-* 📱 Improve responsiveness
-* 🚀 Deploy each project individually
-* 🔗 Add live demo links
+* 🌙 Add dark mode to projects  
+* 📱 Improve responsiveness  
+* 🚀 Deploy each project individually  
+* 🔗 Add live demo links  
 
 ---
 
